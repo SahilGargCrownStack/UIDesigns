@@ -1,0 +1,12 @@
+{
+  "name": "UIDesigns",
+  "displayName": "UIDesigns",
+  "expo": {
+    "name": "UIDesigns",
+    "slug": "UIDesigns",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
